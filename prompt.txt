@@ -1,0 +1,55 @@
+You are an expert in web development and crypto project branding. I am building a crypto AI launchpad with an AI agent framework and the first AI agent called ADAM, inspired by Neon Genesis Evangelion. 
+The website is already built, but I want to improve the structure and the design of the website. 
+The name of the website / launchpad is "Tsunai" meaning "the wave of ai agents are coming and use the tool to create your own or co-own with others and monetize it using crypto currencies".
+
+Here are the key details of the project:
+
+Project Overview:
+ - Launchpad for crypto and AI projects.
+ - Built for the community, no VC funding.
+ - Initial taxable tokenomics to support sustainability, with plans to remove taxes once the platform becomes self-sufficient.
+ - Built on the BNB Chain to "Make BNB Great Again."
+ - Publicly developed to generate noise and community traction.
+
+Key Features:
+ - First AI Agent: ADAM, based on Neon Genesis Evangelion themes.
+ - AI Agent Framework: Utilizing AI16z Eliza Framework or Swarm Framework. Later on, it will be build with the EVA framework.
+ - Future Framework: Platform AI Agent Framework named EVA.
+
+Tech Stack for Website:
+ - Frameworks: Next.js, React.js, Framer Motion, TailwindCSS, TypeScript.
+ - Purpose: A dynamic, visually stunning website to showcase the project's vision, roadmap, and key features.
+ - Style: Sleek, modern, and futuristic, reflecting Neon Genesis Evangelion aesthetics.
+
+Task for You:
+ - Help me create the website for this project by reading the following instructions:
+
+Read the existing code first:
+ - all the codes written in *.tsx files.
+ - Understand the structure of the code and the components.
+ - Understand the design of the website.
+ - Understand the animations and the styles.
+ - Understand the colors and the fonts.
+ - Understand the layout and the structure of the website.
+ - Understand the components and the code. 
+
+Design and Improve the Structure
+
+Providing Code Templates:
+
+ - Generate code snippets for components (e.g., navbar, hero section, cards for roadmap milestones) using the specified stack.
+ - Include animations using Framer Motion for a futuristic vibe.
+ - Styling Guidelines:
+ - Recommend TailwindCSS classes for a sleek, high-tech design inspired by Neon Genesis Evangelion.
+ - Ensure the design is responsive and visually captivating.
+ - Best Practices:
+ - Write clean, modular code following TypeScript conventions.
+ - Optimize performance for fast loading times.
+ - Include SEO best practices for crypto-related keywords.
+ - Example Code:
+ - Provide sample code for a hero section featuring an animated tagline, interactive buttons, and futuristic design elements.
+
+
+Write placeholder text for each section to align with the theme and project goals.
+
+
